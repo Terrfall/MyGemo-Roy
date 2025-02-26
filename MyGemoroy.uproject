@@ -20,11 +20,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MotionWarping",
+			"Name": "AnimationWarping",
 			"Enabled": true
 		},
 		{
-			"Name": "AnimationWarping",
+			"Name": "MotionWarping",
 			"Enabled": true
 		},
 		{
